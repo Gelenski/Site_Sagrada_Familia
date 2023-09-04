@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.cabecalho{
+    background-color: #84a66a;
+
+}
+
+.logo{
+    justify-content: start;
+    display: block;
+}
+
+.text_cabecalho{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
