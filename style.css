@@ -116,7 +116,7 @@
     cursor: pointer;
   }
 }
-/* ------------------Main ---------------------*/
+/* ------------------ Main ---------------------*/
 
 body {
   background-color: #e0e9da;
@@ -125,6 +125,10 @@ body {
 .conteudo {
   background-color: #84a66a;
   border-radius: 10px;
+}
+
+.conteudo a {
+  text-decoration: none;
 }
 
 .conteudo p {
@@ -155,6 +159,22 @@ body {
   width: 80%;
   border-radius: 10px;
 }
+
+.juventude {
+  margin-bottom: 2%;
+  margin-left: 10%;
+  width: 80%;
+  border-radius: 10px;
+}
+
+.animais {
+  margin-bottom: 2%;
+  margin-left: 10%;
+  width: 80%;
+  border-radius: 10px;
+}
+
+/*----------------------RODAPÉ---------------------------*/
 
 footer {
   background-color: #84a66a;
