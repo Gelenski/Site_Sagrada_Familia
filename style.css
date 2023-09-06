@@ -1,7 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Istok+Web&family=Roboto+Slab:wght@400;500&family=Roboto:ital@0;1&display=swap");
+
 * {
   padding: 0;
   margin: 0;
   font-size: 19px;
+  font-family: "Istok Web", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Roboto Slab", serif;
 }
 
 .cabecalho {
@@ -263,7 +268,6 @@ body {
 footer {
   background-color: #84a66a;
   text-transform: uppercase;
-  font-family: Georgia, "Times New Roman", Times, serif;
   color: white;
   font-size: 80%;
 }
