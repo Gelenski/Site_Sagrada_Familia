@@ -12,6 +12,7 @@
   list-style: none;
   padding: 0;
   background-color: #84a66a;
+  position: relative;
 }
 
 #menu-h li {
@@ -117,14 +118,26 @@
 }
 /* ------------------Main ---------------------*/
 
+body {
+  background-color: #e0e9da;
+}
+
 .conteudo {
-  background-color: red;
+  background-color: #84a66a;
   border-radius: 10px;
 }
 
 .conteudo p {
   padding: 8px;
-  height: 1000px;
+  height: 800px;
+  color: white;
+}
+
+.conteudo h1 {
+  text-align: center;
+  color: white;
+  padding: 8px;
+  font-size: 140%;
 }
 
 .primeira-parte {
@@ -136,8 +149,15 @@
   padding: 8px;
 }
 
+.idoso {
+  margin-bottom: 2%;
+  margin-left: 10%;
+  width: 80%;
+  border-radius: 10px;
+}
+
 footer {
-  background-color: #a3bc8f;
+  background-color: #84a66a;
   text-transform: uppercase;
   font-family: Georgia, "Times New Roman", Times, serif;
   color: white;
