@@ -94,21 +94,24 @@ body {
 
 .idoso {
   margin-bottom: 2%;
-  margin-left: 10%;
+  margin-left: auto;
+  margin-right: auto;
   width: 80%;
   border-radius: 10px;
 }
 
 .juventude {
   margin-bottom: 2%;
-  margin-left: 10%;
+  margin-left: auto;
+  margin-right: auto;
   width: 80%;
   border-radius: 10px;
 }
 
 .animais {
   margin-bottom: 2%;
-  margin-left: 10%;
+  margin-left: auto;
+  margin-right: auto;
   width: 80%;
   border-radius: 10px;
 }
@@ -142,7 +145,8 @@ footer {
 
 .animal {
   margin-bottom: 2%;
-  margin-left: 10%;
+  margin-left: auto;
+  margin-right: auto;
   width: 80%;
   border-radius: 10px;
 }
@@ -160,11 +164,14 @@ footer {
   margin-bottom: 2%;
   width: 40%;
   border-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .mulheres {
   margin-bottom: 2%;
-  margin-left: 10%;
+  margin-left: auto;
+  margin-right: auto;
   width: 40%;
   border-radius: 10px;
 }
@@ -335,21 +342,24 @@ footer {
 
   .animais {
     margin-bottom: 2%;
-    margin-left: 10%;
+    margin-left: auto;
+    margin-right: auto;
     width: 80%;
     border-radius: 10px;
   }
 
   .animal {
     margin-bottom: 2%;
-    margin-left: 10%;
+    margin-left: auto;
+    margin-right: auto;
     width: 80%;
     border-radius: 10px;
   }
 
   .idoso {
     margin-bottom: 2%;
-    margin-left: 10%;
+    margin-left: auto;
+    margin-right: auto;
     width: 80%;
     border-radius: 10px;
   }
@@ -387,14 +397,16 @@ footer {
 
   .animais {
     margin-bottom: 2%;
-    margin-left: 10%;
+    margin-left: auto;
+    margin-right: auto;
     width: 80%;
     border-radius: 10px;
   }
 
   .idoso {
     margin-bottom: 2%;
-    margin-left: 10%;
+    margin-left: auto;
+    margin-right: auto;
     width: 80%;
     border-radius: 10px;
   }
