@@ -52,11 +52,14 @@
   font-size: 70px;
 }
 
-
 /* ------------------ Main ---------------------*/
 
 body {
   background-color: #e0e9da;
+}
+
+.conteudo img {
+  margin-left: 30%;
 }
 
 .conteudo {
@@ -133,7 +136,7 @@ footer {
 
 /*----------------------ANIMAIS--------------------------*/
 
-.lista_cars{
+.lista_cars {
   color: white;
 }
 
@@ -144,17 +147,12 @@ footer {
   border-radius: 10px;
 }
 
-
 /*-----------------------SAGRADA-------------------------*/
 
-.sagrada_txt{
+.sagrada_txt {
   color: white;
   text-align: center;
 }
-
-
-
-
 
 /*----------------------SOCIAL--------------------------*/
 
@@ -196,12 +194,10 @@ footer {
     display: inline;
     cursor: pointer;
     transition: 1s;
-  
   }
-  
-  #menu-h li button:hover{  
+
+  #menu-h li button:hover {
     transform: scale(1.3);
-  
   }
 
   .animal {
@@ -217,12 +213,6 @@ footer {
     width: 60%;
     border-radius: 10px;
   }
-  
-
-
-
- 
-  
 }
 
 @media (max-width: 2500px) {
@@ -249,14 +239,10 @@ footer {
     display: inline;
     cursor: pointer;
     transition: 1s;
-  
-  
-    
   }
-  
-  #menu-h li button:hover{  
+
+  #menu-h li button:hover {
     transform: scale(1.3);
-  
   }
 
   .animal {
@@ -272,11 +258,6 @@ footer {
     width: 40%;
     border-radius: 10px;
   }
-
-
-
- 
-  
 }
 
 @media (max-width: 1900px) {
@@ -291,7 +272,6 @@ footer {
     width: 40%;
     border-radius: 10px;
   }
-
 
   #menu-h li a {
     color: white;
@@ -310,12 +290,10 @@ footer {
     display: inline;
     cursor: pointer;
     transition: 1s;
-  
   }
-  
-  #menu-h li button:hover{  
+
+  #menu-h li button:hover {
     transform: scale(1.3);
-  
   }
 
   .animal {
@@ -324,9 +302,6 @@ footer {
     width: 40%;
     border-radius: 10px;
   }
-
- 
-  
 }
 
 @media (max-width: 450px) {
@@ -343,7 +318,6 @@ footer {
     text-decoration: none;
     display: inline;
     cursor: pointer;
-    
   }
 
   #menu-h li button {
@@ -354,14 +328,10 @@ footer {
     display: inline;
     cursor: pointer;
     transition: 1s;
-  
-  
-    
   }
-  
-  #menu-h li button:hover{  
+
+  #menu-h li button:hover {
     transform: scale(1.3);
-  
   }
 
   .animais {
@@ -384,14 +354,6 @@ footer {
     width: 80%;
     border-radius: 10px;
   }
-  
-
-
-
- 
- 
-
-  
 }
 
 @media (max-width: 400px) {
@@ -418,14 +380,10 @@ footer {
     display: inline;
     cursor: pointer;
     transition: 1s;
-  
-  
-    
   }
-  
-  #menu-h li button:hover{  
+
+  #menu-h li button:hover {
     transform: scale(1.3);
-  
   }
 
   .animais {
@@ -441,12 +399,4 @@ footer {
     width: 80%;
     border-radius: 10px;
   }
-  
-  
-}
-
-
-.sagrada_txt {
-  margin-left: 10%;
-  width: 80%;
 }
